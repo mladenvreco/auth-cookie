@@ -36,7 +36,7 @@ This project is a simple demonstration of authentication using Next.js, Iron Ses
 
    ```bash
    git clone https://github.com/mladenvreco/auth-cookie.git
-   cd simple-auth-demo
+   cd auth-cookie
 
 2. Install dependencies:
 
@@ -55,7 +55,7 @@ yarn dev
 Usage
 
 Navigate to the login page
-Enter "mladen" and any password (this demo does not connect to a real backend)
+Enter "madi" and any password (this demo does not connect to a real backend)
 Upon login, you will be redirected to a protected page
 You can logout to clear the session
 
